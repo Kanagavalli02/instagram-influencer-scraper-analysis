@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data outputs (keep your repo clean)
+data/raw/
+data/processed/
+outputs/
+*.csv
+*.json
+
+# If you use cookies/sessions for scraping (do NOT upload)
+cookies/
+sessions/
+cache/
