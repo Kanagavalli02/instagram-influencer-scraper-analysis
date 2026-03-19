@@ -67,24 +67,6 @@ Examples:
 * Python 3.x
 * Libraries (typical): pandas, numpy, matplotlib (plus any scraping libs used in your code)
 
-## Project Structure (example)
-
-```text
-.
-├── src/
-│   ├── scraper.py
-│   ├── analysis.py
-│   └── utils.py
-├── data/
-│   ├── raw/              # optional (may be excluded from git)
-│   └── processed/
-├── outputs/
-│   └── charts/           # saved graphs
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
 ## Setup & Run
 
 ### 1) Install dependencies
